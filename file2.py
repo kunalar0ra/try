@@ -1,1 +1,3 @@
-print("hello world2")
+def fun(name):
+	print("there there",name)
+fun("kunal")
